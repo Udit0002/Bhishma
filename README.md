@@ -1,5 +1,7 @@
 ## 🚀 Project: Namami Gange Awareness Chatbot
-
+<p align="center">
+  <img src="./assets/landing-page.png" width="700"/>
+</p>
 **Problem Statement**: Proposed by the Ministry of Jal Shakti under the **Namami Gange Programme** to raise awareness about river conservation.
 
 **🏆 Achievement**: Won **1st place** at the college annual project showcase.
